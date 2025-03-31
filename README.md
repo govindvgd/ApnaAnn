@@ -12,4 +12,3 @@ SmartHubVyapaar
 1. Gaurav Agarwal
 2. Govind
 3. Harmannat Kaur
-4. Swaroop Nune
