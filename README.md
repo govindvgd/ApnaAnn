@@ -1,4 +1,4 @@
-# ApnaAnn - Connecting Farmers and Consumers
+# ApnaAnn - Way to connect consumers with farmers
 
 ### Figma Prototype Link
 https://www.figma.com/proto/4wRO5jGnXBtwEBMwOeKq02/Untitled?node-id=1-2&t=04nwMAra4s4biWrW-1
